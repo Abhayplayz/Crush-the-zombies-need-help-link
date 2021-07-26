@@ -1,1 +1,2 @@
-# Crush-the-zombies-need-help-link
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
